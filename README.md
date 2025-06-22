@@ -56,7 +56,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For any inquiries or feedback, please contact:  
-📧 **aarukhkhan22@gmail.com**
+📧 **khanaarukhkhan@gmail.com
+**
 
 ---
 
